@@ -41,3 +41,4 @@ class movie{
     }
   }
   var m1=new movie("Casino Royale","Eon Productions","PG13");
+  console.log(m1.rating);
